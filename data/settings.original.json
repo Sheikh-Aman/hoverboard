@@ -17,8 +17,29 @@
   },
   "hashtag": "DevFest17",
   "disabledSchedule": false,
-  "navigation": [],
-  "heroSettings": {
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Schedule"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Team"
+    },
+    {
+      "route": "blog",
+      "permalink": "/blog/",
+      "label": "Blog"
+    }
+  ],
+    "heroSettings": {
     "home": {
       "description": "Be a hero. Be a GDG!",
       "background": {
