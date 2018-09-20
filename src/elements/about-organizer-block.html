@@ -75,17 +75,37 @@
           <marked-element class="description" markdown="{$ block.description $}">
             <div slot="markdown-html"></div>
           </marked-element>
+
+          
+          {% if block.hasImages %}
+          
+          {% for imgBlock in block.images %}
+
           <a
-            href="{$ block.callToAction.link $}"
-            {% if block.callToAction.newTab %}
-            target="_blank" rel="noopener noreferrer"
-            {% endif %}
-          >
-            <paper-button class="cta-button animated icon-right">
-              <span>{$ block.callToAction.label $}</span>
-              <iron-icon icon="hoverboard:arrow-right-circle"></iron-icon>
-            </paper-button>
-          </a>
+          href="{$ imgBlock.ctaLink $}"
+          class="image-link"
+          target="_blank"
+          ga-on="click"
+          ga-event-category="link"
+          ga-event-action="open"
+          ga-event-label="open organizer link"
+        >
+
+          <img
+                  class="logo-img"
+                  src="{$ imgBlock.logoUrl $}"
+                  width="{$ imgBlock.width $}"
+                  height="{$ imgBlock.height $}"
+                ></img>
+
+                </a>
+
+            
+              {% endfor %}
+
+
+              {% endif %}
+
         </div>
         {% endfor %}
       </div>
