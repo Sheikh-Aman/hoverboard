@@ -1,9 +1,11 @@
 {
-  "title": "GDG DevFest Season 2018",
-  "description": "Be a hero. Be a GDG!",
+  "title": "DevFest Bangalore 2018",
+  "cfpLink":"https://goo.gl/forms/a4maZmFlnGQwdjOA3",
+  "registerLink":"https://goo.gl/forms/nFv2bHvPnKzuJ1zC2",
+  "description": "Come join us to “Develop For All",
   "image": "images/social-share.jpg",
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "October 12-13, 2018",
+  "dates": "October 13, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
   "share": "Share",
   "followOur": "Follow our",
@@ -211,8 +213,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "Get notified about the important conference updates",
-      "label": "Subscribe"
+      "description": "The CFP closes tomorrow September 21st, so submit your proposals soon!",
+      "label": "Apply"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",
@@ -260,11 +262,27 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "description": "<a href='https://www.meetup.com/GDGBangalore' target='_blank'>GDG Bangalore</a> and <a href='https://www.meetup.com/blrdroid/' target='_blank'>BLRDroid</a> with support of 10 GDGs from all around India is proud organizer of DevFest India",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
-        }
+        },
+        "hasImages": true,
+        "images": [
+          {
+            "logoUrl": "images/logos/gdg_blr.png",
+            "width": 220,
+            "height": 38,
+            "ctaLink": "https://www.meetup.com/GDGBangalore"
+            
+          },
+          {
+            "logoUrl": "images/logos/gdg_blr_droid.png",
+            "width": 220,
+            "height": 38,
+            "ctaLink": "https://www.meetup.com/blrdroid/"
+          }
+        ]        
       },
       {
         "title": "What is GDG?",
@@ -273,7 +291,16 @@
           "label": "Read more",
           "link": "https://developers.google.com/groups/",
           "newTab": true
-        }
+        },
+        "hasImages": true,
+        "images": [
+          {
+            "logoUrl": "images/logos/gdg.png",
+            "width": 220,
+            "height": 38,
+            "ctaLink": "https://developers.google.com/groups/"
+          }
+        ]   
       }
     ]
   },
