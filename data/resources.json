@@ -213,7 +213,7 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "The CFP closes tomorrow September 21st, so submit your proposals soon!",
+      "description": "The CFP closes September 21st, so submit your proposals soon!",
       "label": "Apply"
     },
     "yourEmail": "Your email",
