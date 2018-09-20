@@ -51,13 +51,19 @@
     <div class="container" layout vertical center$="[[viewport.isTabletPlus]]">
       <div class="description"> {$ subscribeBlock.callToAction.description $}</div>
       <div class="cta-button">
+
+          <a
+          href="{$ cfpLink $}"
+          class="image-link"
+          ga-on="click"
+          target="_blank"
+          ga-event-category="link"
+          ga-event-action="open"
+          ga-event-label="open cfp link"
+        >
         <paper-button class="animated icon-right"
                       disabled$="[[subscribed]]"
-                      on-tap="_subscribe"
-                      ga-on="click"
-                      ga-event-category="attendees"
-                      ga-event-action="subscribe"
-                      ga-event-label="subscribe block">
+                      >
           <span class="cta-label">[[ctaLabel]]</span>
           <iron-icon icon$="hoverboard:[[ctaIcon]]"></iron-icon>
         </paper-button>
