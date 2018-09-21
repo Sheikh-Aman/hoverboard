@@ -262,7 +262,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/blrdroid/' target='_blank'>BLRDroid</a> and <a href='https://www.meetup.com/GDGBangalore' target='_blank'>GDG Bangalore</a> are the proud organizer of DevFest India",
+        "description": "<a href='https://www.meetup.com/blrdroid/' target='_blank'>BLRDroid</a> and <a href='https://www.meetup.com/GDGBangalore' target='_blank'>GDG Bangalore</a> are the proud organizers of DevFest India",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
