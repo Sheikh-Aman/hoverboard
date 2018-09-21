@@ -262,7 +262,7 @@
     "blocks": [
       {
         "title": "Organizer",
-        "description": "<a href='https://www.meetup.com/GDGBangalore' target='_blank'>GDG Bangalore</a> and <a href='https://www.meetup.com/blrdroid/' target='_blank'>BLRDroid</a> with support of 10 GDGs from all around India is proud organizer of DevFest India",
+        "description": "<a href='https://www.meetup.com/blrdroid/' target='_blank'>BLRDroid</a> and <a href='https://www.meetup.com/GDGBangalore' target='_blank'>GDG Bangalore</a> are the proud organizer of DevFest India",
         "callToAction": {
           "label": "Open team page",
           "link": "/team"
@@ -274,7 +274,7 @@
             "width": 220,
             "height": 38,
             "ctaLink": "https://www.meetup.com/GDGBangalore"
-            
+
           },
           {
             "logoUrl": "images/logos/gdg_blr_droid.png",
@@ -282,7 +282,7 @@
             "height": 38,
             "ctaLink": "https://www.meetup.com/blrdroid/"
           }
-        ]        
+        ]
       },
       {
         "title": "What is GDG?",
@@ -300,7 +300,7 @@
             "height": 38,
             "ctaLink": "https://developers.google.com/groups/"
           }
-        ]   
+        ]
       }
     ]
   },
