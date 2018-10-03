@@ -17,7 +17,18 @@
   },
   "hashtag": "DevFest17",
   "disabledSchedule": false,
-  "navigation": [],
+  "navigation": [
+    {
+      "route": "home",
+      "permalink": "/",
+      "label": "Home"
+    },
+    {
+      "route": "speakers",
+      "permalink": "/speakers/",
+      "label": "Speakers"
+    }
+  ],
   "heroSettings": {
     "home": {
       "description": "Come join us to Develop For All",
