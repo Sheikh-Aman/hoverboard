@@ -2,6 +2,8 @@
 
 In case to have Authentication and My Schedule features, you'll need a Firebase project and your specific configuration data that has a few details about your project.
 
+
+
 1. Create a Firebase project in the [Firebase console](https://console.firebase.google.com/), if you don't already have one.
 
 	- If you already have an existing Google project associated with your app, click *Import Google Project*. Otherwise, click *Create New Project*.
