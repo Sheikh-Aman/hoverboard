@@ -9,4 +9,6 @@ functions/lib/
 .firebaserc
 .firebase
 /appengine/dist/
+config/*.stg.json
 serviceAccount.json
+serviceAccount*.json
