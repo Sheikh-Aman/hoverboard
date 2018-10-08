@@ -1,6 +1,6 @@
 {
   "title": "DevFest Bangalore 2018",
-  "cfpLink":"https://goo.gl/forms/a4maZmFlnGQwdjOA3",
+  "cfpLink":"schedule/",
   "registerLink":"https://goo.gl/forms/nFv2bHvPnKzuJ1zC2",
   "description": "Come join us to “Develop For All",
   "image": "images/social-share.jpg",
@@ -213,8 +213,8 @@
   },
   "subscribeBlock": {
     "callToAction": {
-      "description": "The CFP closes September 21st, so submit your proposals soon!",
-      "label": "Apply"
+      "description": "",
+      "label": "View the Agenda"
     },
     "yourEmail": "Your email",
     "emailAddress": "Email Address",

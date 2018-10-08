@@ -157,11 +157,6 @@
         <div class="session-meta">
           <div hidden$="[[!session.complexity]]">[[session.complexity]]</div>
         </div>
-        <iron-icon
-          class="bookmark-session"
-          icon="hoverboard:[[_getFeaturedSessionIcon(featuredSessions, session.id)]]"
-          on-tap="_toggleFeaturedSession"
-        ></iron-icon>
       </div>
 
       <div class="session-footer">
@@ -191,7 +186,7 @@
 
               <div class="speaker-details" flex>
                 <div class="speaker-name">[[speaker.name]]</div>
-                <div class="speaker-title">[[speaker.company]] / [[speaker.country]]</div>
+                <div class="speaker-title">[[speaker.company]]</div>
               </div>
             </div>
           </template>
