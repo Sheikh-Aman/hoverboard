@@ -155,9 +155,9 @@
       }, {
         "endTime" : "11:20",
         "sessions" : [ {
-          "items" : [ 103 ]
+          "items" : [ 106 ]
         }, {
-          "items" : [ 104 ]
+          "items" : [ 113 ]
         } ],
         "startTime" : "10:40"
       }, {
@@ -169,7 +169,7 @@
       }, {
         "endTime" : "12:20",
         "sessions" : [ {
-          "items" : [ 106 ]
+          "items" : [ 103 ]
         }, {
           "items" : [ 107 ]
         } ],
@@ -178,6 +178,9 @@
         "endTime" : "13:00",
         "sessions" : [ {
           "items" : [ 108 ]
+        },
+        {
+          "items" : [ 104 ]
         } ],
         "startTime" : "12:20"
       },{
@@ -198,9 +201,9 @@
       }, {
         "endTime" : "15:20",
         "sessions" : [ {
-          "items" : [ 113 ]
+          "items" : [ 115 ]
         }, {
-          "items" : [ 114 ]
+          "items" : [ 116 ]
         } ],
         "startTime" : "14:40"
       }, {
@@ -212,15 +215,15 @@
       }, {
         "endTime" : "16:20",
         "sessions" : [ {
-          "items" : [ 115 ]
+          "items" : [ 117 ]
         }, {
-          "items" : [ 116 ]
+          "items" : [ 114 ]
         } ],
         "startTime" : "15:40"
       }, {
         "endTime" : "17:00",
         "sessions" : [ {
-          "items" : [ 117 ]
+          "items" : [ 119 ]
         }, {
           "items" : [ 118 ]
         } ],
@@ -376,6 +379,14 @@
       "speakers" : [ "santhosh" ],
       "tags" : [ "Web" ],
       "title" : "Webcomponents and Angular"
+    },
+    "119" : {
+      "complexity" : "Intermediate",
+      "description" : "Android provides plenty of tools from Thread to Coroutines for completing tasks in asynchronous manner. This talk will focus on those tools and how to use them to effectively to delay (procrastinate) on not-so-urgent tasks and build responsive applications.",
+      "language" : "English",
+      "speakers" : [ "arun" ],
+      "tags" : [ "Android" ],
+      "title" : "Effective Procrastination"
     }
   },
   "speakers" : {
@@ -620,7 +631,7 @@
       "title" : "Software Engineer"
     },
     "santhosh" : {
-      "bio" : "Developer with interest in Javascript and visulization. Currently he works at Walmart Labs, improving products and solutions for bussiness users.",
+      "bio" : "Developer with interest in Javascript and visualization. Currently he works at Walmart Labs, improving products and solutions for bussiness users.",
       "company" : "Walmart Labs",
       "featured" : false,
       "name" : "Santhosh G",
@@ -633,6 +644,26 @@
         "name" : "Twitter"
       } ],
       "title" : "Web developer"
+    },
+    "arun" : {
+      "bio" : "Senior Android Engineer at Uber. To learn more about him, click https://www.linkedin.com/in/arunasp/",
+      "company" : "Uber",
+      "featured" : false,
+      "name" : "Arun Babu",
+      "photo" : "images/speakers/arun.jpg",
+      "photoUrl" : "images/speakers/arun.jpg",
+      "shortBio" : "Senior Android Engineer at Uber",
+      "socials" : [ {
+        "icon" : "twitter",
+        "link" : "https://twitter.com/arunbabuasp",
+        "name" : "Twitter"
+      },
+      {
+        "icon" : "linkedin",
+        "link" : "https://www.linkedin.com/in/arunasp",
+        "name" : "Linkedin"
+      } ],
+      "title" : "Senior Android Engineer"
     }
   },
   "team" : [ {
