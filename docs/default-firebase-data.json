@@ -240,7 +240,7 @@
     "100" : {
       "description" : "",
       "language" : "English",
-      "title" : "Keynote"
+      "title" : "Introduction"
     },
     "101" : {
       "complexity" : "Beginner",
@@ -277,7 +277,8 @@
       "description" : "Foooooooood!",
       "icon" : "lunch",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Break"
+      "title" : "Break",
+      "color": "#aaa"
     },
     "106" : {
       "complexity" : "Beginner",
@@ -290,7 +291,6 @@
       "complexity" : "Beginner",
       "description" : "Traditionally,  Design Research  is thought to uncover present user needs. Then how does a Designer design for the future? This talk explores this question through Future-telling.",
       "language" : "English",
-      "bg_color": "#fff",
       "speakers" : [ "saumitri" ],
       "title" : "Future-telling : Designing for the future"
     },
@@ -300,22 +300,14 @@
       "language" : "English",
       "speakers" : [ "gaurav" ],
       "tags" : [ "ML" ],
-      "bg_color": "#f0f",
       "title" : "Understanding MLKit offerings on Android"
-    },
-    "109" : {
-      "complexity" : "Beginner",
-      "description" : "TBD",
-      "language" : "English",
-      "bg_color": "#0f0",
-      "title" : "BLRDROID Slot"
     },
     "110" : {
       "description" : "Foooooooood!",
       "icon" : "lunch",
-      "bg_color": "#f00",
       "image" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fbackgrounds%2Flunch.jpg?alt=media&token=bc82aaff-92cc-4dcc-a00e-2b6f30a40225",
-      "title" : "Lunch"
+      "title" : "Lunch",
+      "color": "#aaa"
     },
     "111" : {
       "complexity" : "Intermediate",

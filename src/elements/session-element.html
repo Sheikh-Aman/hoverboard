@@ -148,7 +148,7 @@
 
       <div class="session-header" layout horizontal justified>
         <div flex>
-          <h3 class="session-title">[[session.title]]</h3>
+          <h3 class="session-title" style="color: [[session.color]]">[[session.title]]</h3>
         </div>
         <span class="language">[[slice(session.language, 2)]]</span>
       </div>
@@ -163,9 +163,9 @@
         <div layout horizontal justified center-aligned>
           <div class="session-meta" flex>
             <span
-              hidden$="[[!session.duration.hh]]">[[session.duration.hh]] hour[[_getEnding(session.duration.hh)]]</span>
+              hidden$="[[!session.duration.hh]]" style="color: [[session.color]]">[[session.duration.hh]] hour[[_getEnding(session.duration.hh)]]</span>
             <span
-              hidden$="[[!session.duration.mm]]">[[session.duration.mm]] min[[_getEnding(session.duration.mm)]]</span>
+              hidden$="[[!session.duration.mm]]" style="color: [[session.color]]">[[session.duration.mm]] min[[_getEnding(session.duration.mm)]]</span>
           </div>
           <div hidden$="[[!session.tags.length]]">
             <template is="dom-repeat" items="[[session.tags]]" as="tag">
