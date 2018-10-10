@@ -519,7 +519,7 @@
     },
     "monika_jethani" : {
       "bio" : "Monika is an Android application developer and an emerging technology enthusiast having 4+ years of experience in IT industry. She has authored various technology articles and has also spoken at Functional Programming conference in 2016 on 'Functional Programming in Android using Kotlin'.",
-      "company" : "",
+      "company" : "PWC",
       "featured" : false,
       "name" : "Monika Kumar Jethani",
       "photo" : "images/speakers/monika.png",
@@ -529,7 +529,7 @@
     },
     "manpreet" : {
       "bio" : "Manpreet is an Android Engineer at Hotstar. Prior to Hotstar, he has led Android development for multiple startups. He's been developing for Android for more than 4 years. He holds a bachelor's degree in computer science.      ",
-      "company" : "PWC",
+      "company" : "Hotstar",
       "featured" : false,
       "name" : "Manpreet Singh",
       "photo" : "images/speakers/manpreet.jpg",
