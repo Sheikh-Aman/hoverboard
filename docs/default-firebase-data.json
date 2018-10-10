@@ -243,14 +243,14 @@
       "title" : "Introduction"
     },
     "101" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 1",
       "description" : "We live in an age where tech discussions are all pervasive. As technologists, this often seems gratifying, but it's worth asking - Is our obsession with technology holding us back from building viable businesses?",
       "language" : "English",
       "speakers" : [ "shrinath" ],
       "title" : "Moving beyond the obsession with technology"
     },
     "102" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 2",
       "description" : "This talk will highlight the benefits to using coroutines over other solutions to do asynchronous programming with Kotlin on Android.  The talk would also introduce the participants to how to use kotlin coroutines in their apps.",
       "language" : "English",
       "speakers" : [ "adit_lal", "vrushali_raut" ],
@@ -258,7 +258,7 @@
       "title" : "Async with Kotlin Coroutines"
     },
     "103" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 1",
       "description" : "The talk is focussed around bringing on device machine learning to apps to provide users a better end user experience ",
       "language" : "English",
       "speakers" : [ "amrit_sanjeev" ],
@@ -266,7 +266,7 @@
       "title" : "Making intelligent Android apps"
     },
     "104" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 2",
       "description" : "This talk covers the fundamental understanding of Augmented Reality. The session covers basic theoretical concepts needed to understand, design and develop AR solutions. How Google’s ARCore platform can be a potential platform to develop AR applications will also be addressed in this session. The talk will break down the concept of AR into pieces of easily understandable concepts along with simple demos. The session is great for beginners and intermediates who would like to understand AR",
       "language" : "English",
       "speakers" : [ "chetan" ],
@@ -281,21 +281,21 @@
       "color": "#aaa"
     },
     "106" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 1",
       "description" : "A session on various aspects of Istio and deep dive on managing various microservices",
       "language" : "English",
       "speakers" : [ "muthu" ],
       "title" : "Managing Microservices with Istio"
     },
     "107" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 2",
       "description" : "Traditionally,  Design Research  is thought to uncover present user needs. Then how does a Designer design for the future? This talk explores this question through Future-telling.",
       "language" : "English",
       "speakers" : [ "saumitri" ],
       "title" : "Future-telling : Designing for the future"
     },
     "108" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 1",
       "description" : "ML Kit is the SDK that makes machine learning features more straightforward for the mobile developers to incorporate in their apps. Since ML Kit has been made a core ingredient of Firebase ,its robust ML APIs can be implemented seamlessly in both android & IOS apps like it’s any other feature such as analytics, crashlytics etc.\nIn this session we will take deep dive in the different ready to use APIs of ML Kit encapsulating the features of Mobile Vision, Google Cloud Vision API, TensorFlow Lite and Neural Network API. ",
       "language" : "English",
       "speakers" : [ "gaurav" ],
@@ -310,14 +310,14 @@
       "color": "#aaa"
     },
     "111" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 1",
       "description" : "It's beauty, it's handy, it's fast, it's easy - all about Dagger 2",
       "language" : "English",
       "speakers" : [ "kishore", "sanchit" ],
       "title" : "Actions on Google"
     },
     "112" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 2",
       "description" : "Last year brought a lot of new capabilities to browsers, fundamentally changing the way we will build web apps in 2016. 60FPS, push messages, offline support and background sync became a reality marking the birth of Progressive Web Apps.",
       "language" : "English",
       "speakers" : [ "monika_jethani" ],
@@ -325,7 +325,7 @@
       "title" : "Leveraging the power of Arrow to build Android(Kotlin) apps using Functional Programming"
     },
     "113" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 2",
       "description" : "We'll first study the Kotlin-DSL by going through the language features that enable it. Next, we'll see how it's better than Groovy-DSL. In the end, we'll convert the existing Gradle script written in Groovy-DSL to Kotlin-DSL.      ",
       "language" : "English",
       "speakers" : [ "manpreet" ],
@@ -333,7 +333,7 @@
       "title" : "Gradle with Kotlin"
     },
     "114" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 2",
       "description" : "An Overview Of TensorFlow 1.11 ",
       "language" : "English",
       "speakers" : [ "mukund" ],
@@ -341,7 +341,7 @@
       "title" : "TensorFlow"
     },
     "115" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 1",
       "description" : "Artificial Intelligence, Machine Learning, and Deep Learning has captured the public imagination in the recent past.  From self-driving cars to booking a table at chinese restaurants, the use cases are innumerable.  Whether you are an entrepreneur or a job seeker in this domain, the industry has umpteen opportunities and possibilities.  In this talk, we glimpse inside the world of AI & ML, and figure out the Machine Learning approach to problem solving.  Sathish will cover key introductory concepts which will ease your way into picking up additional material and courses on the topic.  Google Cloud is definitely the foremost platform right now in AI/ML and we'll see the key services provided by GCP that you can easily employ.  Finally, we'll get a peek into how Google has made Machine Learning a plug-and-play service with AutoML.",
       "language" : "English",
       "speakers" : [ "satish" ],
@@ -349,7 +349,7 @@
       "title" : "Machine Learning and AutoML on GCP"
     },
     "116" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 2",
       "description" : "Flutter is Google’s new mobile SDK for creating Android and iOS apps. In this talk, we'll quickly recap the fundamentals of Flutter,  dive into some of Flutter's most useful packages, and look at how Android developers can add Flutter to their apps. So come check out some live coding with Flutter!      ",
       "language" : "English",
       "speakers" : [ "matt" ],
@@ -357,7 +357,7 @@
       "title" : "Flutter"
     },
     "117" : {
-      "complexity" : "Beginner",
+      "hall" : "Kalinga 1",
       "description" : "There are many books, articles and paper publications about Android and related applications but only a few are related to how Android operating system works internally.In this talk we will see how android boots up , an overview of zygote ,  how system server and package manager works. This talk will be extremely helpful to foster understanding among android developers about Android Internals as well as everybody else who desires a general understanding of the internal working of Android powered devices.",
       "language" : "English",
       "speakers" : [ "rajesh" ],
@@ -365,7 +365,7 @@
       "title" : "Android Internals - How package manager works internally"
     },
     "118" : {
-      "complexity" : "Intermediate",
+      "hall" : "Kalinga 2",
       "description" : "How are webcomponents useful for making reusable components and creating webcomponents in Angular applications.      ",
       "language" : "English",
       "speakers" : [ "santhosh" ],
@@ -373,6 +373,7 @@
       "title" : "Webcomponents and Angular"
     },
     "119" : {
+      "hall" : "Kalinga 1",
       "complexity" : "Intermediate",
       "description" : "Android provides plenty of tools from Thread to Coroutines for completing tasks in asynchronous manner. This talk will focus on those tools and how to use them to effectively to delay (procrastinate) on not-so-urgent tasks and build responsive applications.",
       "language" : "English",
