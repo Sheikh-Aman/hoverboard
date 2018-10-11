@@ -229,7 +229,7 @@
     "toast": "Successfully subscribed!"
   },
   "team": {
-    "description": "this is the organising team of Devfest Bangalore 2018, both from GDG Bangalore and GDG Blrdroid"
+    "description": "This is the organising team of Devfest Bangalore 2018, both from GDG Bangalore and GDG Blrdroid"
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
