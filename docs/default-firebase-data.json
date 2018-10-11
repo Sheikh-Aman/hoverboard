@@ -660,189 +660,41 @@
     }
   },
   "team" : [ {
-    "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photo" : "/images/people/oleh_zasadnyy.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 0,
-      "title" : "Website and sponsors"
-    }, {
-      "name" : "Sofiya Huts",
-      "photo" : "/images/people/sofiya_huts.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fsofiya_huts.jpg?alt=media&token=a911eafb-f709-4af7-b1cb-58a6604b70d1",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "order" : 1,
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photo" : "/images/people/vitaliy_zasadnyy.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvitaliy_zasadnyy.jpg?alt=media&token=930e05c8-ae43-4628-8d4c-3e8f5193cda3",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 2,
-      "title" : "Speakers"
-    }, {
-      "name" : "Marta Maxymiak",
-      "photo" : "/images/people/marta_maxymiak.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fmarta_maxymiak.jpg?alt=media&token=6532f039-7f86-4304-8558-dbfbb3ae8d68",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
-      "order" : 3,
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Ostap Andrusiv",
-      "photo" : "/images/people/ostap_andrusiv.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "order" : 4,
-      "title" : "Sponsors"
-    }, {
-      "name" : "Vasylyna Mytsak",
-      "photo" : "/images/people/vasylyna_mytsak.jpg",
-      "photoUrl" : "https://storage.googleapis.com/hoverboard-experimental.appspot.com/images/people/optim/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "order" : 5,
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photo" : "/images/people/volodya_karpliuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fvolodya_karpliuk.jpg?alt=media&token=aa08d9c9-c42a-435f-8672-c3a004e3aa08",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "order" : 6,
-      "title" : "Speakers"
-    }, {
-      "name" : "Diana Pinchuk",
-      "photo" : "/images/people/diana_pinchuk.jpg",
-      "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/hoverboard-experimental.appspot.com/o/images%2Fpeople%2Fdiana_pinchuk.jpg?alt=media&token=189d67d1-004f-4a3c-9e0c-13bc992bbaf7",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "order" : 7,
-      "title" : "Social and media"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photo" : "/images/people/ihor_dvoretskyi.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "order" : 0,
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photo" : "/images/people/dmytro_danylyk.jpg",
-      "photoUrl" : "",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "order" : 1,
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
+    "members" : [{"name":"Achyuth kumar Chaganti","title":"Self(Fresher)","photo":"images/team/achyuth.jpg","photoUrl":"images/team/achyuth.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://goo.gl/pCzFCv"}]},
+    {"name":"Alfan Khan S","title":"OLA CABS (CVT)","photo":"images/team/alfan.jpg","photoUrl":"images/team/alfan.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/alfankhan-khan-b3ba5b107"}]},
+    {"name":"Ammaar Athar","title":"Freelance","photo":"images/team/amaar.jpg","photoUrl":"images/team/amaar.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://docs.google.com/document/d/1-NzDlJDXvgYttLKCGDK-aSWGEGwiBJba1XK-6R-7PvU/edit?usp=drivesdk"}]},
+    {"name":"Amrit Sanjeev","title":"Google ","photo":"images/team/amrit.jpg","photoUrl":"images/team/amrit.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":""}]},
+    {"name":"Anoop Toffy","title":"Tricog Healthcare ","photo":"images/team/anoop.jpg","photoUrl":"images/team/anoop.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"http://www.anooptoffy.com"}]},
+    {"name":"Apoorva Bhalla","title":"IIIT Bangalore","photo":"images/team/apoorva.jpg","photoUrl":"images/team/apoorva.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/apoorvain"}]},
+    {"name":"Arathi Nair","title":"GE DIGITAL","photo":"images/team/aravind.jpg","photoUrl":"images/team/aravind.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://linkedin.com/in/arathinair"}]},
+    {"name":"Aravind Venugopal","title":"Onebyo","photo":"images/team/arthi.jpg","photoUrl":"images/team/arthi.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/aravind1444"}]},
+    {"name":"Arun Babu A S P","title":"Uber","photo":"images/team/arun.jpg","photoUrl":"images/team/arun.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/arunasp"}]},
+    {"name":"Bhaarat Chetty","title":"NASDAQ","photo":"images/team/bhaarat.jpg","photoUrl":"images/team/bhaarat.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"http://linkedin.com/in/bhaarat-chetty-83a27bb6"}]},
+    {"name":"Devesh Verma","title":"Shaw Academy","photo":"images/team/devesh.jpg","photoUrl":"images/team/devesh.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/devesh-verma"}]},
+    {"name":"Hariharan K","title":"Relyon Softech","photo":"images/team/hariharan.jpg","photoUrl":"images/team/hariharan.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/hariharan-k-38457110b/"}]},
+    {"name":"Harish Sridharan","title":"Dailyrounds","photo":"images/team/harish.jpg","photoUrl":"images/team/harish.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/harish-sridharan"}]},
+    {"name":"Jadeja Shaktisinh","title":"Appscrip","photo":"images/team/jadeja.jpg","photoUrl":"images/team/jadeja.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/shaktisinhjadeja"}]},
+    {"name":"Jagriti Jain","title":"VMware","photo":"images/team/jagriti.jpg","photoUrl":"images/team/jagriti.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/jagriti-jain-1252a628/"}]},
+    {"name":"Jayendra kartheek","title":"SAP LABS","photo":"images/team/jayendra.jpg","photoUrl":"images/team/jayendra.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/kartheekgj"}]},
+    {"name":"Karnika Advani","title":"lenskart.com","photo":"images/team/karnika.jpg","photoUrl":"images/team/karnika.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/karnikaadvani/"}]},
+    {"name":"Krishna Teja ","title":"Dell","photo":"images/team/krishna.jpg","photoUrl":"images/team/krishna.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/skrishnateja"}]},
+    {"name":"Neha Dhanwani","title":"VersionN Studios","photo":"images/team/neha.jpg","photoUrl":"images/team/neha.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":""}]},
+    {"name":"Nikhil Kumar Singh","title":"Sir MVIT","photo":"images/team/nikhil.jpg","photoUrl":"images/team/nikhil.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"http://www.linkedin.com/in/nikhilsingh291"}]},
+    {"name":"Nishesh Bharech","title":"Trodly Technologies","photo":"images/team/nishesh.jpg","photoUrl":"images/team/nishesh.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"http://www.linkedin.com/in/nishesh96"}]},
+    {"name":"Pavan Kumar M.S","title":"IGS","photo":"images/team/pavan.jpg","photoUrl":"images/team/pavan.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/sshprotocol/"}]},
+    {"name":"Prateek Prasad","title":"Behtar","photo":"images/team/prateek.jpg","photoUrl":"images/team/prateek.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/hackertronix"}]},
+    {"name":"Rohit Menda","title":"Dynamitedroid production","photo":"images/team/rohit.jpg","photoUrl":"images/team/rohit.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/dynamitedroid"}]},
+    {"name":"Sainath Reddy Pemmaka","title":"Tata Consultancy Services Ltd.","photo":"images/team/sainath.jpg","photoUrl":"images/team/sainath.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/authwall?trk=gf&trkInfo=AQEPtSgCo0355AAAAWZeRmpIiynaCgm3QWrKQ_hC45lwTXdXC7vKtq4EVwzaw9YiWF5vVORaFuYn_FzS119LPvcAn9LwTvL_P8JsYT1Lyd1lVrXefCSY-gMdGMqEfuQj32uO0xM=&originalReferer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsainath-reddy-pemmaka-0ba47295"}]},
+    {"name":"Sayantika Banik","title":"GDG Bangalore","photo":"images/team/sayantika.jpg","photoUrl":"images/team/sayantika.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/sayantika-banik"}]},
+    {"name":"Shadab Hussain","title":"Infosys Ltd","photo":"images/team/shadab.jpg","photoUrl":"images/team/shadab.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/shadabhussain96"}]},
+    {"name":"Shivam Ranjan Raj","title":"Sir M Visvesvaraya Institute Of Technology, Bangalore","photo":"images/team/shivam.jpg","photoUrl":"images/team/shivam.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/shivam-ranjan-raj-71523016b"}]},
+    {"name":"Soham Mondal","title":"Triveous","photo":"images/team/soham.jpg","photoUrl":"images/team/soham.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":""}]},
+    {"name":"Sujay Kumar ","title":"Hackerearth","photo":"images/team/sujay.jpg","photoUrl":"images/team/sujay.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://linkedin.com/sujaryan"}]},
+    {"name":"Swarna Seshadri","title":"GE Healthcare","photo":"images/team/swarna.jpg","photoUrl":"images/team/swarna.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/swarna-seshadri-020b98147"}]},
+    {"name":"Tangudu Rupak","title":"Lukcups","photo":"images/team/tangudu.jpg","photoUrl":"images/team/tangudu.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/rupak7406"}]},
+    {"name":"Varun Arora","title":"Nobroker Technology Solution Pvt LTD","photo":"images/team/varun.jpg","photoUrl":"images/team/varun.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/varunarora1996"}]},
+    {"name":"Vishal Pathik Gupta","title":"","photo":"images/team/vishal.jpg","photoUrl":"images/team/vishal.jpg","socials" : [ { "name" : "Linkedin", "icon" : "linkedin", "link":"https://www.linkedin.com/in/vishalpathikgupta"}]}],
+    "title" : "Team"
   } ]
 
 }

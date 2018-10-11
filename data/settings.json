@@ -32,6 +32,11 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
+    },
+    {
+      "route": "team",
+      "permalink": "/team/",
+      "label": "Team"
     }
   ],
   "heroSettings": {
@@ -77,7 +82,7 @@
       "fontColor": "#424242"
     },
     "team": {
-      "title": "Team",
+      "title": "Devfest Bangalore 2018 organising team",
       "metaDescription": "Get more info about organizers",
       "background": {
         "color": "#fff"
