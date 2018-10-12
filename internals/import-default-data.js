@@ -59,9 +59,19 @@ const importTeam = () => {
       { title: teams[teamId].title },
     );
 
+    var f = 97;
+    var s = 97;
+
+
     teams[teamId].members.forEach((member, id) => {
+
+      if(s >= (97 + 26)) {
+          s= 97;
+          f++;
+      }
       batch.set(
-        firestore.collection('team').doc(`${teamId}`).collection('members').doc(`${id}`),
+
+        firestore.collection('team').doc(`${teamId}`).collection('members').doc(`${String.fromCharCode(f)}${String.fromCharCode(s++)}`),
         member,
       );
     })
